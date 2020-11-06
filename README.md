@@ -14,13 +14,13 @@
 
 ```
 dependencies:
-  flipping_button: ^1.0.6
+  flipping_button: ^1.1.0
  
 ```
 ### Import the package
 ```
 dependencies:
-  flipping_button: ^1.0.6
+  flipping_button: ^1.1.0
 ```
 
 
