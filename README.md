@@ -6,7 +6,8 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<img src = "https://raw.github.com/asknishant/flipping_button/blob/master/Capture.PNG" align = "center"></img>
+![](https://github.com/asknishant/flipping_button/blob/master/Capture.PNG?raw=true)
+
 
 ## Installation
 ### pubspec.yaml:
@@ -98,7 +99,7 @@ Email - asknishant.39@gmail.com
 
 Project Link: [Github](https://github.com/asknishant/Flipping_button/tree/master)
 
-<img src="https://raw.github.com/asknishant/flipping_button/blob/master/GIF.gif" width="300" height="600" />
+![](https://github.com/asknishant/flipping_button/blob/master/GIF.gif?raw=true)
 
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
