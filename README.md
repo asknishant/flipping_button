@@ -2,7 +2,7 @@
 
 #### This is an animated flip button widget created for toggling between two different values.
 *  *  *  *  *
-
+[![pub package](https://img.shields.io/badge/pub-%5E1.1.0-blue)](https://pub.dev/packages/flipping_button)
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
