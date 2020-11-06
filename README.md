@@ -6,20 +6,20 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<img src = "https://github.com/asknishant/flipping_button/blob/master/Capture.PNG" align = "center"></img>
+<img src = "https://raw.github.com/asknishant/flipping_button/blob/master/Capture.PNG" align = "center"></img>
 
 ## Installation
 ### pubspec.yaml:
 
 ```
 dependencies:
-  flipping_button: ^1.0.0
+  flipping_button: ^1.0.6
  
 ```
 ### Import the package
 ```
 dependencies:
-  flipping_button: ^1.0.0
+  flipping_button: ^1.0.6
 ```
 
 
@@ -98,7 +98,7 @@ Email - asknishant.39@gmail.com
 
 Project Link: [Github](https://github.com/asknishant/Flipping_button/tree/master)
 
-<img src="https://github.com/asknishant/flipping_button/blob/master/GIF.gif" width="300" height="600" />
+<img src="https://raw.github.com/asknishant/flipping_button/blob/master/GIF.gif" width="300" height="600" />
 
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
